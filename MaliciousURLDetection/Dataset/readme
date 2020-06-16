@@ -1,1 +1,4 @@
-
+The dataset used for training and evaluation of models is “URL dataset (ISCX-URL-2016)” 
+It has extracted from Datasets repository maintained by University of New Brunswick (Canadian Institute for Cybersecurity, 2016). 
+The Dataset consists a total of 114,400 URLs, including both malicious and benign URLs. Malicious URLs are categorised into four different categories- defacement, malware, phishing, and spam. 
+Dataset consists of 79 Lexical features which are extracted from characteristics of benign and malicious URLs
