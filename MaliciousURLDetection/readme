@@ -1,1 +1,2 @@
-
+Five Different Machine Learning algorithms are used as classifier and evaluated to find the best model on the basis pf performance of models on training test.
+Prediction made on Test data is using Best Model selected.
